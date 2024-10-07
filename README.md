@@ -1,48 +1,44 @@
-# Project Name
-> Outline a brief description of your project.
+# LENDING CLUB CASE STUDY
+> To analyse the Lending Club past loan records and build a system to validate future loan applicants based on the 
+applicant’s profile and provide a set of recommendations predicting the risk and impact of a loan application.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+OVERVIEW
+> To analyse the Lending Club past loan records and build a system to validate future loan applicants based on the 
+applicant’s profile and provide a set of recommendations predicting the risk and impact of a loan application.
+
+OBJECTIVES
+* Identify top 3 features that drive Defaults
+* Identify top 5 feature values that impacts Default rate
+* Identify top 10 Risky combinations of the above top variables
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Top 3 features that drive default rate - Interest Rate, Grade, Purpose
+- Top 5 key segment values have been derived
+- Top 10 key combinations that cause high default rate has been derived
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 2.2.2
+- matplotlib - version 3.8.4
+- seaborn - version 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@gauravyadav3110] - feel free to contact me!
 
 
 <!-- Optional -->
